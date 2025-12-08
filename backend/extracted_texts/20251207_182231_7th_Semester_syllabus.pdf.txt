@@ -1,0 +1,342 @@
+=== EXTRACTED TEXT LOG ===
+Filename: 7th Semester_syllabus.pdf
+Date: 2025-12-07T18:22:31.301681
+Chunks: 84
+==================================================
+
+
+--- Chunk 0 ---
+GRAPHIC ERA (DEEMED TO BE UNIVERSITY), DEHRADUN SEMESTER VII Name of Department: - Computer Science and Engineering 1. Subject Code: Course Title: 2. Contact Hours: L: T: P: 3. Examination Duration (Hrs): Theory Practical 4. Relative Weight: CIE MSE ESE 5. Credits: 6. Semester: 7. Category of Course: 8. Pre-requisite: Computer Networks-I (TCS-604) 9. Course Outcome After completion of the course the students will be able to: CO1 Analyze Global and Centralized Routing protocols and utilize tools (such as NS2) to examine routing protocols of LS and DV types CO2 Evaluate and select the appropriate technology to meet Data Link Layer requirements CO3 Specify the devices, components and technologies to build a cost-effective LAN CO4 Appreciate issues for supporting real time and multimedia traffic over public network CO5 Identify the availability strategies in a Network Management System that will improve network availability and limit the effects of failures CO6 Implement client server applications with TCP/UDP Socket Programming 10. Details of the Course: SL.
+
+
+--- Chunk 1 ---
+NO. Contents Contact Hours Unit 1: Routing Algorithms: Introduction, global vs decentralized routing, The Link State(LS) Routing Algorithm, The Distance Vector (DV) Routing Algorithm, Hierarchical Routing, Routing in the Internet: RIP, OSPF, BGP; Introduction to Broadcast and Multicast Routing Unit 2: Link Layer and Local Area Networks: Introduction to Link Layer and its services, Where Link Layer is implemented? Error detection and correction techniques: Parity checks, Checksum, Computer Networks II TCS 703 VII DSC
+
+
+--- Chunk 0 ---
+CRC; Multiple Access protocols: Channel Partitioning, Random Access (Slotted Aloha, Aloha, CSMA), Taking Turns; Link Layer Addressing: MAC addresses, ARP, Ethernet, CSMA/CD, Ethernet Technologies, Link Layer Switches, Switches vs Routers, VLANS Unit 3: Multimedia Networking: Introduction, Streaming Stored Audio and Video, Real Time Streaming Protocol (RTSP), Making the Best of the Best Effort Services, Protocols for Real Time Interactive Applications: RTP, RTCP, SIP, H.323; Providing multiple classes of service. Unit 4: Network Management: What it is, Infrastructure of Network Management, The Internet standard Management Framework, SNMP Unit 5: Code Optimization, Compiler Development: Code Optimization: Introduction; The principal sources of optimization; Peephole optimization; Optimization of basic blocks; Loops in flow graphs. Compiler Development: Planning a compiler; Approaches to compiler development; the compiler development environment; Testing and maintenance.
+
+
+--- Chunk 0 ---
+Course Articulation Matrix High correlation (3); Medium correlation (2); Low correlation (1), No correlation ( - ) CO Statement PO1 PO2 PO3 PO4 PO5 PO6 PO7 PO8 PO9 PO10 PO11 PO12 PSO1 PSO2 PSO3 TCS703.1 Analyze Global and Centralized Routing protocols and utilize tools (such as NS2) to examine routing protocols of LS and DV types TCS703.2 Evaluate and select the appropriate technology to meet Data Link Layer requirements - TCS703.3 Specify the devices, components and technologies to build a cost- effective LAN - - - - TCS703.4 Appreciate issues for supporting real time and multimedia traffic over public network - - - - - - TCS703.5 Identify the availability strategies in a Network Management System that will improve network availability and limit the effects of failures - - - - TCS703.6 Implement client server applications with TCP/UDP Socket Programming - - - - TCS 703 2.2 2.33 2.25 2.66 1.66 1.6 1.83 1.5 1.16 2.66 1.5
+
+
+--- Chunk 0 ---
+2023-24 and 2024-25 onwards GRAPHIC ERA (DEEMED TO BE UNIVERSITY), DEHRADUN SEMESTER VII Name of Department: - Computer Science and Engineering 1. Subject Code: Course Title: 2. Contact Hours: L: T: P: 3. Examination Duration (Hrs): Theory Practical 4. Relative Weight: CIE MSE ESE 5. Credits: 6. Semester: 7. Category of Course: 8.
+
+
+--- Chunk 1 ---
+Pre-requisite: Logic Design and Computer Organization (TCS308) 9. Course Outcome: After completion of the course the students will be able to: CO1 Discuss the classes of computers, and new trends and developments in computer architecture. CO2 Study advanced performance enhancement techniques such as pipelines, dynamic scheduling branch predictions, caches. CO3 Compare and contrast the modern computer architectures such as RISC, Scalar, and multi-CPU systems. CO4 Critically evaluate the performance of different CPU architecture. CO5 Improve the performance of applications running on different CPU architectures. CO6 Develop applications for high performance computing systems 10.
+
+
+--- Chunk 0 ---
+Performance Metrics and Evaluation: Measuring Performance, Benchmark Standards, Amdahl's Law, Lhadma's Law Unit 2: Memory Hierarchy Design: Basics of Memory Hierarchy, Coherence and locality properties, Cache memory organizations, Advanced Optimization of Cache Performance, Memory Technology and Optimization, Cache Coherence and Synchronization Mechanism, Virtual Memory, Virtual Machines Unit 3: Pipeline: Linear pipeline processor, nonlinear pipeline processor, Instruction pipeline Design, Dynamic instruction scheduling, Branch Handling techniques, branch prediction, Arithmetic Pipeline Design Data, and resource Dependences, Performance Issues in Pipeline: Pipeline Hazards, Data Hazards Branch hazards and Resource Hazards. Unit 4: Instruction Level Parallelism: Concepts and Challenges, Basic Compiler techniques for exploiting ILP, Reducing the branch penalty with advanced branch predictions, overcoming data hazards with dynamic scheduling, exploiting ILP using multiple issues state scheduling Unit 5: Multiprocessor architecture: Taxonomy of parallel architectures. Centralized shared-memory, distributed shared- memory architecture, Message passing vs Shared Memory Thread and Process Level Parallel Architecture: Instruction Level Data Parallel Architecture, SIMD Architecture, Fine Grained and Coarse-Grained Associative and Neural Architecture, Data Parallel Pipelined and Systolic Architectures, Vector Architectures Total Textbooks: Authors Name Title Edition Publisher, Country Year Kai Hwang Advance Computer Architecture 3rd Edition McGraw Hill
+
+
+--- Chunk 0 ---
+Quinn Parallel Computing: Theory & Practice 2nd Edition McGraw Hill Matthew Beginning Linux Programming 2nd Edition SPD/WROX Hennessy and Patterson Computer Architecture: A Quantitative Approach”, 1st Edition Elsevier Reference Books: Authors Name Title Edition Publisher, Country Year Quinn Parallel Programming in C with MPI and Open MP 1st Edition McGraw Hill
+
+
+--- Chunk 0 ---
+Course Articulation Matrix High correlation (3); Medium correlation (2); Low correlation (1), No correlation ( - ) CO Statement PO1 PO2 PO3 PO4 PO5 PO6 PO7 PO8 PO9 PO10 PO11 PO12 PSO1 PSO2 PSO3 TCS611.1 Understand Software Development Life Cycle and importance of engineering the software. - - - - - - - TCS704.1 Discuss the classes of computers, and new trends and developments in computer architecture. - - - - - - - - TCS704.2 Study advanced performance enhancement techniques such as pipelines, dynamic scheduling branch predictions, caches. - - - - - - TCS704.3 Compare and contrast the modern computer architectures such as RISC, Scalar, and multi-CPU systems. - - - TCS704.4 Critically evaluate the performance of different CPU architecture. - TCS704.5 Improve the performance of applications running on different CPU architectures. - - - TCS 704 1.8 2.2 2.33 1.66 1.66 1.33 1.66 1.5 1.16 1.6 1.66 1.33 2.5 1.2
+
+
+--- Chunk 0 ---
+2023-24 and 2024-25 onwards GRAPHIC ERA (DEEMED TO BE UNIVERSITY), DEHRADUN SEMESTER VII Name of Department: - Computer Science and Engineering 1. Subject Code: Course Title: 2. Contact Hours: L: T: P: 3. Examination Duration (Hrs): Theory Practical 4. Relative Weight: CIE MSE ESE 5. Credits: 6. Semester: 7. Category of Course: 8. Pre-requisite: NA 9.
+
+
+--- Chunk 1 ---
+Course Outcome: After completion of the course the students will be able to: CO1 Understand research problem formulation CO2 Analyze research related information CO3 Follow research ethics CO4 Understand that today’s world is controlled by Computer, Information Technology, but tomorrow world will be ruled by ideas, concept, and creativity. CO5 Understanding that when IPR would take such important place in growth of individuals & nation, it is needless to emphasise the need of information about Intellectual Property Right to be promoted among students in general & engineering. CO6 Understand that IPR protection provides an incentive to inventors for further research work and investment in R & D, which leads to creation of new and better products, and in turn brings about, economic growth and social benefits.
+
+
+--- Chunk 0 ---
+for research problem, data collection, analysis, interpretation, Necessary instrumentations. Unit 2: Effective literature studies approach, analysis Plagiarism, Research ethics. Unit 3: Effective technical writing, how to write report, Paper Developing a Research Proposal, Format of research proposal, a presentation and assessment by a review committee. Unit 4: Nature of Intellectual Property: Patents, Designs, technological research, innovation, patenting, development. International Scenario: International cooperation on Intellectual Property. Procedure for grants of patents, Patenting under PCT. Unit 5: Patent Rights: Scope of Patent Rights. Licensing and transfer of technology. Patent information and databases.
+
+
+--- Chunk 1 ---
+Geographical Indications. New Developments in IPR: Administration of Patent System. New developments in IPR; IPR of Biological Systems, Computer Software etc. Traditional knowledge Case Studies, IPR and IITs Total Textbooks: Authors Name Title Edition Publisher, Country Year Stuart Melville, Wayne Goddard, Research Methodology: An Introduction for Science & Engineering Students 1st Edition Juta & Co. Ltd. Wayne Goddard, Stuart Melville, Research methodology: An introduction 2nd Edition Juta Academic Ranjit Kumar, Research Methodology: A Step by 2nd Edition Pearson India
+
+
+--- Chunk 0 ---
+Step Guide for Beginners Halbert Resisting Intellectual Property 1st Edition Taylor & Francis Ltd Reference Books: Authors Name Title Edition Publisher, Country Year Robert P. Merges, Peter S. Menell, Mark A. Lemley, Intellectual Property in New Technological Age”, 2nd Edition “Wolters Kluwer Law and Business T. Ramappa, “Intellectual Property Rights Under WTO”, 1st Edition S. Chand
+
+
+--- Chunk 0 ---
+Course Articulation Matrix High correlation (3); Medium correlation (2); Low correlation (1), No correlation ( - ) CO Statement PO1 PO2 PO3 PO4 PO5 PO6 PO7 PO8 PO9 PO10 PO11 PO12 PSO1 PSO2 PSO3 TRM701.1 Understand research problem formulation TRM701.2 Analyze research related information TRM701.3 Follow research ethics TRM701.4 Understand that today’s world is controlled by Computer, Information Technology, but tomorrow world will be ruled by ideas, concept, and creativity. TRM701.5 Understanding that when IPR would take such important place in growth of individuals & nation, it is needless to emphasis the need of information about Intellectual Property Right to be promoted among students in general & engineering. TRM701.6 Understand that IPR protection provides an incentive to inventors for further research work and investment in R & D, which leads to creation of new and better products, and in turn brings about, economic growth and social benefits.
+
+
+--- Chunk 0 ---
+2023-24 and 2024-25 onwards GRAPHIC ERA (DEEMED TO BE UNIVERSITY), DEHRADUN SEMESTER VII Name of Department: - Computer Science and Engineering 1. Subject Code: Course Title: 2. Contact Hours: L: T: P: 3. Examination Duration (Hrs): Theory Practical 4. Relative Weight: CIE MSE ESE 5. Credits: 6. Semester: 7. Category of Course: 8.
+
+
+--- Chunk 1 ---
+Pre-requisite: Fundamental of Cloud Computing and Bigdata (TCS-351), Virtualization and Cloud Computing (TCS-451), Cloud Based Application Development and Management (TCS-552) 9. Course Outcome: After completion of the course the students will be able to: CO1 Apply the concepts of cloud automation, orchestration, load balancing and resource scheduling management techniques. CO2 Demonstrate the cloud orchestration and automation tools in the cloud services. CO3 Distinguish cloud management techniques in the cloud services. CO4 Evaluate Heat Orchestration Services for cloud services deployment. CO5 Evaluate the different orchestration and automation tools and services to achieve a performing cloud-based web- service. CO6 Design and deploy a cloud-based web-service that uses the RESTful API 10.
+
+
+--- Chunk 0 ---
+balancing solutions, work with cloud storage systems, and develop applications in several programming paradigms. Unit 2: Cloud orchestration tools: AWS CloudFormation, IBM Cloud Orchestrator, RedHat Ansible, Microsoft Azure Automation, Terraform, Kubernetes, Cloudify, and Morpheus. DC/OS container orchestration, Mesos Containers, Docker Containers. Cloud infrastructure automation tools: Chef Automate, Google Cloud Deployment Manager, Puppet Enterprise, Red Hat Ansible Automation Platform, VMware vRealize Automation. Unit 3: Cloud management techniques such as Cloud instances at scale, Cloud software deployment considerations such as scaling strategies, load balancing, fault tolerance, accounting for tail latencies and optimizing for cost. Case study of the following cloud services: IBM Cloud Orchestrator, Ingram Micro Cloud Orchestrator, Microsoft Azure Automation, IT Automation with AWS Lambda, AWS Systems Manager Automation, Microsoft Cycle Computing, Morpheus, OpenStack Heat orchestration engine, Saltstack, Zymr. Unit 4: Heat orchestration service, Heat orchestration Template (HoT), Architecture, Main execution flow, Scheduling and fault tolerance concepts in the MapReduce programming model, Cloud programming models (MapReduce, Storm, Spark, GraphLab, Spark Streaming and Samza), OpenStack Heat Orchestration Service. Unit 5: MERN RESTful API, Benefits of RESTful APIs, RESTful API client request, RESTful API authentication methods, Design and deploy a cloud-based web-service that uses the REST interface to respond to queries that require running an analytics job on a large data set which is stored in a database. The web-services are evaluated through a load generator for a fixed time period (several hours) by measuring the cost of cloud resources used and their system’s performance (throughput). Design and Deploy Smart Traffic Management System Application to Cloud Total
+
+
+--- Chunk 0 ---
+Textbooks: Authors Name Title Edition Publisher, Country Year Barrie Sosinsky Cloud Computing Bible 1st Edition Wiley Felipe Gutierrez Spring Cloud Data Flow: Native Cloud Orchestration Services for Microservice Applications on Modern Runtimes 1st Edition Apress A. A. Siddiqui OpenStack Orchestration 1st Edition Packt Pub Ltd Peter Membrey, Eelco Plugge, David Hows Practical Load Balancing: Ride the Performance Tiger (Expert's Voice in Networking) 1st Edition Apress
+
+
+--- Chunk 0 ---
+Course Articulation Matrix High correlation (3); Medium correlation (2); Low correlation (1), No correlation ( - ) CO Statement PO1 PO2 PO3 PO4 PO5 PO6 PO7 PO8 PO9 PO10 PO11 PO12 PSO1 PSO2 PSO3 TCS750.1 Apply the concepts of cloud automation, orchestration, load balancing and resource scheduling management techniques. - - - - - - - TCS750.2 Demonstrate the cloud orchestration and automation tools in the cloud services. - - - - - - - TCS750.3 Distinguish cloud management techniques in the cloud services. - - - - - - - TCS750.4 Evaluate Heat Orchestration Services for cloud services deployment. - - - - - - - - TCS750.5 Evaluate the different orchestration and automation tools and services to achieve a performing cloud-based web-service. - - - - - - - - TCS750.6 Design and deploy a cloud-based web- service that uses the RESTful API . - - - - - - - - TCS 750 1.66 2.33 1.25 2.33 - - - 1.83 2.16 1.66 1.66
+
+
+--- Chunk 0 ---
+2023-24 and 2024-25 onwards GRAPHIC ERA (DEEMED TO BE UNIVERSITY), DEHRADUN SEMESTER VII Name of Department: - Computer Science and Engineering 1. Subject Code: Course Title: 2. Contact Hours: L: T: P: 3. Examination Duration (Hrs): Theory Practical 4. Relative Weight: CIE MSE ESE 5. Credits: 6. Semester: 7. Category of Course: 8.
+
+
+--- Chunk 1 ---
+Pre-requisite: Machine learning (TCS509) 9. Course Outcome: After completion of the course the students will be able to: CO1 Understand basics of Natural Language Processing (NLP) CO2 Analyze and Evaluate NLP models CO3 Understand neural language models for NLP CO4 Apply Recurrent neural network models in NLP CO5 Understand transformers and self-attention models for NLP CO6 Apply deep learning to create interesting NLP applications. 10. Details of the Course: Sl.
+
+
+--- Chunk 2 ---
+No. Contents Contact Hours 1. Unit 1: Introduction to Natural Language Processing. Ambiguity in Languages. Applications of NLP (Motivation). Traditional vs deep learning-based NLP. Introduction to traditional NLP libraries: NLTK, Wordnet. Regular expressions, Basic Steps of NLP: Tokenization, Stemming, Lemmatization. Converting text to features, n-grams, corpora, text normalization, smoothing, Bag of Words (BoW) model 2. Unit 2: vector space model, cosine similarity, tf-idf term weighting and its variations, text classification, example of spam classifier using Naïve Bayes.
+
+
+--- Chunk 0 ---
+3. Unit 3: Neural language models, Feedforward Neural Language Modelling, Training neural nets: loss function, computing the gradient, computation graphs, backward differentiation on computation graphs. Training the neural language model. Sequence labelling for Parts of Speech (POS) and Named Entities: English word classes, PoS tagging, named entities and named entity tagging, Recurrent Neural Networks (RNNs) for NLP, LSTM 4. Unit 4: RNNs: inference in RNNs, training. RNNs as language models: training RNN language model, RNNs for other NLP tasks: sequence labelling, sequence classification, generation with RNN-based language models. Stacked and Bidirectional RNN architectures, LSTM: gated units, layers and networks.
+
+
+--- Chunk 1 ---
+Encoder- Decoder models, Attention: 5. Unit 5: Self-attention networks: Transformers, transformer blocks, multi-head attention, modelling word order: positional embeddings. Transformers as language models. Bidirectional transformer encoders. Transfer learning through fine-tuning. NLP applications: machine translation, question answering, chatbots and dialog systems Total Textbooks: Authors Name Title Edition Publisher, Country Year Jurafsky / Martin Speech and Language Processing: An Introduction to Natural Language Processing, Computational Linguistics and Speech Recognition 2nd Edition Pearson Education India Uday Kamath, John Liu, James Whitaker Deep Learning for NLP and Speech Recognition 1st Edition Springer
+
+
+--- Chunk 0 ---
+Course Articulation Matrix High correlation (3); Medium correlation (2); Low correlation (1), No correlation ( - ) CO Statement PO1 PO2 PO3 PO4 PO5 PO6 PO7 PO8 PO9 PO10 PO11 PO12 PSO1 PSO2 PSO3 TCS771.1 Understand basics of Natural Language Processing (NLP) - - - - - - - - - - TCS771.2 Analyze and Evaluate NLP models - - - - - - - - - - TCS771.3 Understand neural language models for NLP - - - - - - - - - - TCS771.4 Apply Recurrent neural network models in NLP - - - - - - - - - - TCS771.5 Understand transformers and self-attention models for NLP - - - - - - - - - TCS771.6 Apply deep learning to create interesting NLP applications - - - - - - - - - TCS771 2.4 1.5 - - - - - - - - 1.5 1.33 2.16
+
+
+--- Chunk 0 ---
+2023-24 and 2024-25 onwards GRAPHIC ERA (DEEMED TO BE UNIVERSITY), DEHRADUN SEMESTER VII Name of Department: - Computer Science and Engineering 1. Subject Code: Course Title: 2. Contact Hours: L: T: P: 3. Examination Duration (Hrs): Theory Practical 4. Relative Weight: CIE MSE ESE 5. Credits: 6. Semester: 7. Category of Course: 8. Pre-requisite: NA 9.
+
+
+--- Chunk 1 ---
+Course Outcome: After completion of the course the students will be able to: CO1 Understand the importance of a systematic procedure for investigation of data found on digital storage media that might provide evidence of wrongdoing. CO2 Identify and document potential security breaches of computer data that suggest violations of legal, ethical, moral, policy and/or societal standards CO3 Use tools for faithful preservation of data on disks for analysis and find data that may be clear or hidden on a computer or another device CO4 Work with computer forensics tools used in data analysis, such as searching, absolute disk sector viewing and editing, recovery of files, password cracking, etc. CO5 Present the results of forensics analysis as an expert.
+
+
+--- Chunk 0 ---
+Tracking, IP Tracking, E-Mail Recovery, Encryption and Decryption methods, Search and Seizure of Computers, Recovering deleted evidence, Password Cracking 2. Unit 2: Digital Forensics Fundamentals: Introduction to Incident response, digital forensics stepwise procedure, Computer/network/Internet forensic and anti-forensics, Unix/Linux incident response, Unix/Linux forensics investigation steps and technologies, Memory forensics, Windows incident response tools, Windows forensics tools Data and Evidence Recovery- Introduction to Deleted File Recovery, Formatted Partition Recovery, Data Recovery Tools, Data Recovery Procedures and Ethics, Preserve and safely handle original media, Document a “Chain of Custody”, Complete time line analysis of computer files based on file creation, file modification and file access, Recover Internet Usage Data, Recover Swap Files/Temporary Files/Cache Files, Introduction to Encase Forensic Edition, Forensic Tool Kit (FTK) etc., Use computer forensics software tools to cross validate findings in computer evidence-related cases, Dump Analysis, Browser forensics, Multimedia forensics, Taking RAM dump and Volatile Memory Analysis 3. Unit 3: Software Security: Memory Layout, Buffer Overflow, Code Injection, Other Memory Exploits, Format String Vulnerabilities, Defenses against low-level exploits: Memory Safety, Type Safety, Avoiding Exploitation, Return Oriented Programming, Control Flow Integrity, Secure Coding; Web Security: Basics, SQL Injection, Countermeasures, Session Hijacking, Cross Site Scripting, Program Analysis Image Analysis: Using software to analyze an image, Searching image for evidence, File carving 4. Unit 4: Hardware Security: Digital System Specification, Watermarking, Good Watermarks, Fingerprinting, Hardware metering, Physical Attacks and Countermeasures, Modular Exponentiation (ME) Basics, ME in Cryptography, ME Implementation and Vulnerability, Montgomery Reduction 5. Unit 5: Analysis and Validation: Types of Investigation Software, Validating Forensics Data, Data Hiding Techniques, Performing Remote Acquisition, Network Forensics, Email Investigations, Cell Phone and Mobile Devices Forensics, Virtual Machin Forensics, Cloud forensics, Live forensics
+
+
+--- Chunk 0 ---
+Case Studies: Blackmailing, Credit-Card fraud, Hosting Obscene Profiles, Illegal money transfer, Fake Travel Agent TOTAL Textbooks: Authors Name Title Edition Publisher, Country Year Bill Nelson, Amelia Phillips, Frank Enfinger, Christopher Steuart, ―””, , Computer Forensics and Investigations 6th Edition Cengage Learning, India Edition MarjieT.Britz, Computer Forensics and Cyber Crime”: An Introduction”, 3rd Edition Prentice Hall Reference Books: Authors Name Title Edition Publisher, Country Year Kenneth C.Brancik Insider Computer Fraud 1st Edition Auerbach Publications Taylor- Francis Group Ric Messier CEH Certified Ethical Hacking Review Guide 1st Edition Wiley India Edition, 2015
+
+
+--- Chunk 0 ---
+Course Articulation Matrix High correlation (3); Medium correlation (2); Low correlation (1), No correlation ( - ) CO Statement PO1 PO2 PO3 PO4 PO5 PO6 PO7 PO8 PO9 PO10 PO11 PO12 PSO1 PSO2 PSO3 TCS731.1 Understand the importance of a systematic procedure for investigation of data found on digital storage media that might provide evidence of wrong doing. TCS731.2 Identify and document potential security breaches of computer data that suggest violations of legal, ethical, moral, policy and/or societal standards TCS731.3 Use tools for faithful preservation of data on disks for analysis and find data that may be clear or hidden on a computer or another device TCS731.4 Work with computer forensics tools used in data analysis, such as searching, absolute disk sector viewing and editing, recovery of files, password cracking, etc. TCS731.5 Present the results of forensics analysis as an expert. TCS731.6 Discuss the Cyber Laws and Cyber Crimes.
+
+
+--- Chunk 0 ---
+2023-24 and 2024-25 onwards GRAPHIC ERA (DEEMED TO BE UNIVERSITY), DEHRADUN SEMESTER VII Name of Department: - Computer Science and Engineering 1. Subject Code: Course Title: 2. Contact Hours: L: T: P: 3. Examination Duration (Hrs): Theory Practical 4. Relative Weight: CIE MSE ESE 5. Credits: 6. Semester: 7. Category of Course: 8.
+
+
+--- Chunk 1 ---
+Pre-requisite: Computer Networks (TCS604), Devops on cloud (TCS651) 9. Course Outcome: After completion of the course the students will be able to: CO1 Demonstrate basics of cloud infrastructure. CO2 Distinguish the insight of cloud infrastructure. CO3 Distinguish different components of service-oriented architecture. CO4 Evaluate the insight of the cloud storage. CO5 Evaluate the case study of the cloud infrastructure services. CO6 Design and deploy the cloud infrastructure services.
+
+
+--- Chunk 2 ---
+10. Details of the Course: S. No. Contents Contact Hours 1. Unit - I Introduction to Cloud Infrastructure: Cloud Evolution, Cloud Services, Cloud Deployment Types, Main Challenges of Cloud Infrastructure, Cloud Reference Model, Cloud Management, Cloud Structure, Infrastructure Components, Cloud Layers, Cloud Relations, Cloud Dynamics, Data Types. 2. Unit - II Exploring Cloud Infrastructures, Managing the Cloud - Administrating the Clouds, Management responsibilities, Lifecycle management, Cloud Management Products, Emerging Cloud Management Standards, DMTF cloud management standards, Cloud Commons and SMI, Cloud Infrastructure Services TCS 761 VII DSE
+
+
+--- Chunk 0 ---
+Infrastructure Security: Network Level, Host Level, Application Level. 3. Unit – III Understanding Services Oriented Architecture SOA: Introduction, Event driven SOA, SOA 2.0, Enterprise Service Bus, Service catalogues, Defining SOA Communications, Managing & Monitoring SOA , SOA Security , Relating SOA & Cloud Computing. 4. Unit – IV Exploring Cloud Infrastructure Services Overview of cloud Infrastructure Services, Measuring the Digital Universe: Cloud storage in the Digital Universe, Cloud storage definition, Provisioning Cloud Storage: Unmanaged cloud storage, Managed cloud storage, creating cloud storage systems, Virtual storage containers, Exploring Cloud Backup Solutions: Backup types, Cloud backup features, Cloud attached backup, Cloud Storage Interoperability: Cloud Data Management Interface (CDMI), Open Cloud Computing Interface (OCCI).
+
+
+--- Chunk 1 ---
+5. Unit – V Case Study: AWS Cloud Infrastructure Services AWS networking and databases: Virtual private clouds, Cloud models, Private DNS servers (Route 53)), Relational database service – DynamoDB, ElastiCache, Redshift. Case Study: AZURE Cloud Infrastructure Services Azure Virtual Machines, Azure Kubernetes Service (AKS), Azure Red Hat OpenShift, Azure Arc, Azure Stack HCI, Azure Stack Edge, Azure Stack Hub, Azure IoT TOTAL Textbooks: Authors Name Title Edition Publisher, Country Year Barrie Sisisky Cloud Computing Bible 1st Edition Published by Wiley Publishing, Inc. Berners Lee, Godel and Turing, Thinking on the Web 1st Edition Wiley inters science, 2008.
+
+
+--- Chunk 0 ---
+Course Articulation Matrix High correlation (3); Medium correlation (2); Low correlation (1), No correlation ( - ) CO Statement PO1 PO2 PO3 PO4 PO5 PO6 PO7 PO8 PO9 PO10 PO11 PO12 PSO1 PSO2 PSO3 TCS761.1 Demonstrate basics of cloud infrastructure. - - - - - - - - - - TCS761.2 Distinguish the insight of cloud infrastructure - - - - - - - - - -- TCS761.3 Distinguish different components of service-oriented architecture - - - - - - - - - - - TCS761.4 Evaluate the insight of the cloud storage. - - - - - - - - - - TCS761.5 Evaluate the case study of the cloud infrastructure services. - - - - - - - - - - TCS761.6 Design and deploy the cloud infrastructure services. - - - - - - - - - - TCS761 1.66 - - - - - 1.5 - 1.83 1.33 1.66
+
+
+--- Chunk 0 ---
+2023-24 and 2024-25 onwards GRAPHIC ERA (DEEMED TO BE UNIVERSITY), DEHRADUN SEMESTER VII Name of Department: - Computer Science and Engineering 1. Subject Code: Course Title: 2. Contact Hours: L: T: P: 3. Examination Duration (Hrs): Theory Practical 4. Relative Weight: CIE MSE ESE 5. Credits: 6. Semester: 7. Category of Course: 8.
+
+
+--- Chunk 1 ---
+Pre-requisite: Bigdata Visualization (TCS571), Bigdata storage and processing (TCS671) 9. Course Outcome: After completion of the course the students will be able to: CO1 Understand the frameworks of Business Intelligence CO2 Categorize the structured, semi structured and unstructured data CO3 Create the schemas for data warehouse CO4 Perform the multi-dimensional data modelling CO5 Use of different visualization techniques CO6 Use of Business Intelligence for ERP 10. Details of the Course: S. No.
+
+
+--- Chunk 2 ---
+Contents Contact Hours Unit 1: Business view of Information Technology Application Business Enterprise Organization, its functions, and core business process, Baldrige Business Excellence Framework: - Leadership, Strategic Planning, Customer Focus, Measurement, Analysis and Knowledge Management Workforce Focus, Process Management, Key Purpose of using IT in Business, Enterprise Application (ERP/CRM etc) and Bespoke IT Application. Unit 2: Types of Digital Data, getting to know structured data, characteristics of structured data, were does structured data come from?
+
+
+--- Chunk 0 ---
+Getting to know unstructured data, were does unstructured data comes from? How to manage unstructured data? How to store unstructured data? Solutions to storage challenges of unstructured data, how to extract information from stored unstructured data? UIMA: A possible solution for unstructured data Getting to know semi structured data, where does semi structured data come from? How to manage semi structured data, modeling semi structured data (OEM), How to extract information from semi structured data, XML: A solution for semi structured data Management. Unit 3: Introduction to OLTP and OLAP OLTP:- Queries that an OLTP system can process, Advantage of an OLTP system, Challenges of an OLTP system, The queries that OLTP cannot answer. OLAP:-one dimension data, two-dimension data, three-dimension data, should we go beyond the third dimension, queries that an OLAP system can process, Advantage of an OLAP system Different OLAP Architecture: -MOLAP, ROLAP, HOLAP Data Models for OLTP and OLAP, Role of OLAP tools in the BI Architecture, OLAP operations on multidimensional data. Unit 4: BI component framework: - Business layer, Administration and operational layer, Implementation layer. Who is BI for? - BI for Management, Operational BI, BI for process Improvement, BI to improve customer experience. Business Intelligence Application: -Technology Solutions, Business solutions. BI roles and Responsibility: -BI program team roles, BI project team roles, best practice in BI/DW, Popular BI tools.
+
+
+--- Chunk 1 ---
+Need for Data Warehouse, what is a Data Mart, Goals of a Data Warehouse. Multidimensional data modeling: - Data Modeling Basics, Types of Data model, Data Modeling Techniques, Fact table, Dimension table, Dimensional modeling life cycle. Unit 5: Measure, Metrics, KPIs, and Performance Management Understanding Measure and performance, Measurement system terminology, Fact based Decision Making and KPIS, KPI usage in companies. Basics of Enterprise Reporting: - Report standardization and presentation practices, Enterprise reporting characteristics in OLAP world, Balance score cards, Dashboards, how do you create Dashboards, Scorecards Vs Dashboards.
+
+
+--- Chunk 0 ---
+Course Articulation Matrix High correlation (3); Medium correlation (2); Low correlation (1), No correlation ( - ) CO Statement PO1 PO2 PO3 PO4 PO5 PO6 PO7 PO8 PO9 PO10 PO11 PO12 PSO1 PSO2 PSO3 TIT721.1 Understand the frameworks of Business Intelligence - - - - - - - - TIT721.2 Categorize the structured, semi structured and unstructured data - - - - - - - - - TIT721.3 Create the schemas for data warehouse - - - - - - - - - - TIT721.4 Perform the multi- dimensional data modelling - - - - - - - - - TIT721.5 Use of different visualization techniques - - - - - - - - - TIT721.6 Use of Business Intelligence for ERP - - - - - - - - - TIT 721 1.33 1.66 - - - - - - 1.83 1.16
+
+
+--- Chunk 0 ---
+2023-24 and 2024-25 onwards GRAPHIC ERA (DEEMED TO BE UNIVERSITY), DEHRADUN SEMESTER VII Name of Department: - Computer Science and Engineering 1. Subject Code: Course Title: 2. Contact Hours: L: T: P: 3. Examination Duration (Hrs): Theory Practical 4. Relative Weight: CIE MSE ESE 5. Credits: 6. Semester: 7. Category of Course: 8.
+
+
+--- Chunk 1 ---
+Pre-requisite: Artificial Intelligence: Search Methods for Problem Solving (TCS561) 9. Course Outcome: After completion of the course the students will be able to: CO1 Explain the capabilities of both humans and computers from the viewpoint of human information processing. CO2 Describe typical human–computer interaction (HCI) models, styles, and various historic HCI paradigms. CO3 Apply an interactive design process and universal design principles to designing HCI systems. CO4 Describe and use HCI design principles, standards, and guidelines. CO5 Analyze and identify user models, user support, socio- organizational issues, and stakeholder requirements of HCI systems. CO6 Discuss tasks and dialogs of relevant HCI systems based on task analysis and dialog design 10.
+
+
+--- Chunk 0 ---
+Design process – Human interaction with computers, importance of human characteristics human consideration, Human interaction speeds, understanding business junctions Unit 3: Screen Designing: Design goals – Screen planning and purpose, organizing screen elements, ordering of screen data and content – screen navigation and flow – Visually pleasing composition – amount of information focus and emphasis – presentation information simply and meaningfully, information retrieval on web – statistical graphic, Technological consideration in interface design Unit 4: Windows – New and Navigation schemes selection of window, selection of devices based and screen-based controls. Components – text and messages, Icons and increases – Multimedia, colors, uses problems, choosing colors. Unit 5: Software tools – Specification methods, interface – Building Tools. Interaction Devices – Keyboard and function keys – pointing devices – speech recognition digitization and generation – image and video displays.
+
+
+--- Chunk 1 ---
+Drivers Total Textbooks: Authors Name Title Edition Publisher, Country Year Wilbert O Galitz, “The essential guide to user interface design”, 2nd Edition Wiley DreamaTech. Ben Shneidermann “Designing the user interface”. 3rd Edition , Pearson Education Asia. Reference Books: Authors Name Title Edition Publisher, Country Year ALAN DIX, JANET FINCAY, GRE GORYD, ABOWD, RUSSELL BEALG, “Human – Computer Interaction”.
+
+
+--- Chunk 0 ---
+Course Articulation Matrix High correlation (3); Medium correlation (2); Low correlation (1), No correlation ( - ) CO Statement PO1 PO2 PO3 PO4 PO5 PO6 PO7 PO8 PO9 PO10 PO11 PO12 PSO1 PSO2 PSO3 TCS756.1 Explain the capabilities of both humans and computers from the viewpoint of human information processing. - - - - - - - - - - TCS756.2 Describe typical human– computer interaction (HCI) models, styles, and various historic HCI paradigms. - - - - - - - - - TCS756.3 Apply an interactive design process and universal design principles to designing HCI systems. - - - - - - - - - TCS756.4 Describe and use HCI design principles, standards, and guidelines. - - - - - - - - - TCS756.5 Analyze and identify user models, user support, socio-organizational issues, and stakeholder requirements of HCI systems. - - - - - - - - TCS756.6 Discuss tasks and dialogs of relevant HCI systems based on task analysis and dialog design. - -- - - - - - - TCS 756 1.8 - - - - - - - 2.33 1.66
+
+
+--- Chunk 0 ---
+2023-24 and 2024-25 onwards GRAPHIC ERA (DEEMED TO BE UNIVERSITY), DEHRADUN SEMESTER VII Name of Department: - Computer Science and Engineering 1. Subject Code: Course Title: 2. Contact Hours: L: T: P: 3. Examination Duration (Hrs): Theory Practical 4. Relative Weight: CIE MSE ESE 5. Credits: 6. Semester: 7. Category of Course: 8.
+
+
+--- Chunk 1 ---
+Pre-requisite: Data Base Management Systems (TCS503) 9. Course Outcome: After completion of the course the students will be able to: CO1 Describe the fundamental concepts, benefits and problem areas associated with data warehousing. CO2 Understand the various architectures and main components of a data warehouse. CO3 Identify the issues that arise when implementing a data warehouse. CO4 Examine the techniques applied in data mining. CO5 Compare and contrast OLAP and data mining as techniques for extracting knowledge from a data warehouse. CO6 Develop the association rules for mining.
+
+
+--- Chunk 2 ---
+10. Details of the Course: S. No. Contents Contact Hours Unit 1: Data Warehousing: Overview, Definition, Delivery Process, Difference between Database System and Data Warehouse, Multi-Dimensional Data Model, Data Cubes, Stars, Snowflakes, Fact Constellations, Concept hierarchy, Process Architecture, 3 Tier Architecture, Data Marting. Unit 2: Aggregation, Historical information, Query Facility, OLAP function and Tools. OLAP Servers, ROLAP, MOLAP, HOLAP, Data Mining interface, Security, Backup and Data Warehousing and Data Mining TCS 722 VII DSE
+
+
+--- Chunk 0 ---
+Recovery, Tuning Data Warehouse, Testing Data Warehouse. Unit 3: Overview, Motivation (for Data Mining), Data Mining- Definition & Functionalities, Data Processing, Form of Data Preprocessing, Data Cleaning: Missing Values, Noisy Data, (Binning, Clustering, Regression, Computer and Human inspection), Inconsistent Data, Data Integration and Transformation. Data Reduction: -Data Cube Aggregation, Dimensionality reduction, Data Compression, Numerosity Reduction, Clustering, Discretization and Concept hierarchy generation. Unit 4: Concept Description: - Definition, Data Generalization, Analytical Characterization, Analysis of attribute relevance, Mining Class comparisons, Statistical measures in large Databases. Measuring Central Tendency, Measuring Dispersion of Data, Graph Displays of Basic Statistical class Description, Mining Association Rules in Large Databases, Association rule mining, mining Single-Dimensional Boolean Association rules from Transactional Databases– Apriori Algorithm, Mining Multilevel Association rules from Transaction Databases and Mining Multi-Dimensional Association rules from Relational Databases. Unit 5: Classification & Prediction, Issues regarding Classification and prediction, Decision tree, Bayesian Classification, Classification by Back propagation, Multilayer feed-forward Neural Network, Back propagation Algorithm, Classification methods K-nearest neighbor classifiers, Genetic Algorithm. Cluster Analysis: Data types in cluster analysis, Categories of clustering methods, Partitioning methods. Hierarchical Clustering- CURE and Chameleon, Density Based Methods-DBSCAN, OPTICS, Grid Based Methods- STING, CLIQUE, Model Based Method –Statistical Approach, Neural Network approach, Outlier Analysis Total Textbooks: Authors Name Title Edition Publisher, Country Year Jiawei Han, Micheline Kamber, Jian Pei Data Mining: Concepts and Techniques”, 3rd Edition Morgan Kaufmann M.H Dunham, Data Mining: Introductory and 1st Edition Pearson Education
+
+
+--- Chunk 0 ---
+Course Articulation Matrix High correlation (3); Medium correlation (2); Low correlation (1), No correlation ( - ) CO Statement PO1 PO2 PO3 PO4 PO5 PO6 PO7 PO8 PO9 PO10 PO11 PO12 PSO1 PSO2 PSO3 TCS722.1 Describe the fundamental concepts, benefits and problem areas associated with data warehousing. - - - - - - - - - TCS722.2 Understand the various architectures and main components of a data warehouse. - - - - - - - - TCS722.3 Identify the issues that arise when implementing a data warehouse. - - - - - - - - - TCS722.4 Examine the techniques applied in data mining. - - - - - - - - - - TCS722.5 Compare and contrast OLAP and data mining as techniques for extracting knowledge from a data warehouse. - - - - - - - - - TCS722.6 Develop the association rules for mining - - - - - - - - - TCS 722 1.66 1.5 - - - - - - 1.83 1.33 1.66
+
+
+--- Chunk 0 ---
+2023-24 and 2024-25 onwards GRAPHIC ERA (DEEMED TO BE UNIVERSITY), DEHRADUN SEMESTER VII Name of Department: - Computer Science and Engineering 1. Subject Code: Course Title: 2. Contact Hours: L: T: P: 3. Examination Duration (Hrs): Theory Practical 4. Relative Weight: CIE MSE ESE 5. Credits: 6. Semester: 7. Category of Course: 8.
+
+
+--- Chunk 1 ---
+Pre-requisite: Computer Networks (TCS604) 9. Course Outcome: After completion of the course the students will be able to: CO1 Characterize Distributed Systems and understand the Theoretical Foundations for Distributed Systems CO2 Evaluate various distributed mutual exclusion algorithms CO3 Demonstrate knowledge of deploying different distributed deadlock algorithms in various models of distributed systems. CO4 Determine the appropriate use of different Agreement protocols CO5 Identify the state of a distributed system to apply the appropriate context of commit protocols CO6: Utilize real life DFS (NFS4 and GFS) to examine work of distributed file systems 10.
+
+
+--- Chunk 2 ---
+Details of the Course: S. NO. Contents Contact Hours Unit 1: Characterization of Distributed Systems: Introduction, Examples of distributed Systems, Resource sharing Theoretical Foundation for Distributed System: Limitation of Distributed system, absence of global clock, shared memory, Logical clocks, Lamport’s& vector logical clocks, Causal ordering of messages, Birman-Schiper-Stephenson protocol, Global State: Chandy-Lamport algorithm, Termination detection: Huang’s Algorithm Unit 2: Distributed Systems TCS 723 VII .
+
+
+--- Chunk 0 ---
+Distributed Mutual Exclusion: Classification of distributed mutual exclusion, Requirements of mutual exclusion algorithms, Performance metric for distributed mutual exclusion algorithms. Non-Token Based Algorithms: Lamport, Ricart- Agrawala, Rouicarol-Carvalho; Quorum Based Algorithms: Maekawa; Token-Based Algorithms: Suzuki-Kasami Leader Election in a Ring: LeLann& Chang-Robert’s Algorithm, Hirshberg-Sinclair Algorithm Unit 3: Distributed Deadlock Detection: system model, Wait for Graphs, Deadlock handling strategies, centralized dead lock detection, Path pushing algorithms, Chandy’s et all edge chasing algorithm. Agreement Protocols: Introduction, System models, classification of Agreement Problem, Byzantine agreement problem, Consensus problem, Interactive consistency Problem, Byzantine Agreement problem, Application of Agreement problem. Unit 4: Commit Protocols: Distributed Transactions, Transaction System Architecture, System Failure modes, Two Phase commit protocol, Handling of Failures: Site failure, Coordinator failure, Network Partition, Recovery and Concurrency Control, Three Phase Commit protocol Self-Stabilization: Definition, Randomized Self Stabilization, Probabilistic Self stabilization, Issues in design of self- stabilization algorithms, Dijkstra’s self-stabilizing token ring. Unit 5: Distributed file systems: Design Goals, DFS architecture, Naming Schemes, Mounting Remote Directories, caching to improve performance, Design issues of cache, cache location, Cache update policies, Cache consistency, sharing semantics in DFS, Stateless vs Stateful service NFS, Basic NFS architecture, Caching in NFS3, NFS v4 improvements, NFSv4 details: Compounding, Open/Close, Locking, Caching, Open Delegation, Recalling Delegation, Replication and Security Case Study: Google File System (GFS): Design constraints, Architectural Design, GFS Architecture, Single Master Design, Chunk Size, Metadata, System Interactions, write process, Consistency Model, Master Operations, Locking Operations, Replica Placements, Garbage collection, Fault Tolerance and Diagnosis Total
+
+
+--- Chunk 0 ---
+Textbooks: Authors Name Title Edition Publisher, Country Year Singhal & Shivaratri Advanced Concept in Operating Systems 1st Edition McGraw Hill Coulouris, Dollimore, Kindberg, Distributed System: Concepts and Design 4th Edition Pearson Ed. Gerald Tel "Distributed Algorithms 2nd Edition Cambridge University Press
+
+
+--- Chunk 0 ---
+Course Articulation Matrix High correlation (3); Medium correlation (2); Low correlation (1), No correlation (-) CO Statement PO1 PO2 PO3 PO4 PO5 PO6 PO7 PO8 PO9 PO10 PO11 PO12 PSO1 PSO2 PSO3 TCS723.1 Characterize Distributed Systems and understand the Theoretical Foundations for Distributed Systems - - - - - - - - - TCS723.2 Evaluate various distributed mutual exclusion algorithms - - - - - - - - - TCS723.3 Demonstrate knowledge of deploying different distributed deadlock algorithms in various models of distributed systems. - - - - - - - - TCS723.4 Determine the appropriate use of different Agreement protocols - - - - - - - TCS723.5 Identify the state of a distributed system to apply the appropriate context of commit protocols CO6: Utilize real life DFS (NFS4 and GFS) to examine work of distributed file systems - - - - - - - - - TCS 723 1.33 1.66 2.2 - - - - - - - 1.6 1.6 1.4
+
+
+--- Chunk 0 ---
+2023-24 and 2024-25 onwards GRAPHIC ERA (DEEMED TO BE UNIVERSITY), DEHRADUN SEMESTER VII Name of Department: - Computer Science and Engineering 1. Subject Code: Course Title: 2. Contact Hours: L: T: P: 3. Examination Duration (Hrs): Theory Practical 4. Relative Weight: CIE MSE ESE 5. Credits: 6. Semester: 7. Category of Course: 8.
+
+
+--- Chunk 1 ---
+Pre-requisite: Software Engineering (TCS611) 9. Course Outcome: After completion of the course the students will be able to: CO1 Demonstrate the application of verification and validation tasks and their outcomes during the software life cycle. CO2 Apply various verification and validation techniques based on various characteristics of the system/software (safety, security, risk, etc). CO3 Differentiate between the overall role of verification and validation and the specific role of software/system testing. CO4 Compare and contrast the theoretical and practical limitations to software verification and validation analysis. CO5 Apply appropriate planning and scoping to a verification and validation effort based on the needs of the software system being developed. CO6 Develop a software verification and validation plan that reflects an understanding of verification and validation objectives, and appropriate problem/risk identification and tracking.
+
+
+--- Chunk 0 ---
+Functional Testing: Boundary Value Analysis, Equivalence Class Testing, Decision Table Based Testing, Cause Effect Graphing Technique. Structural Testing: Path testing, DD-Paths, Cyclomatic Complexity, Graph Metrics, Data Flow Testing, Mutation testing. Unit 3: Reducing the number of test cases: Prioritization guidelines, Priority category, Scheme, Risk Analysis, Regression Testing, Slice based testing Unit 4: Testing Activities: Unit Testing, Levels of Testing, Integration Testing, System Testing, Debugging, Domain Testing. Unit 5:Object Oriented Testing: Issues in Object Oriented Testing, Class Testing, GUI Testing, Object Oriented Integration and System Testing.Testing Tools: Static Testing Tools, Dynamic Testing Tools, Characteristics of Modern Tools. Total Textbooks: Authors Name Title Edition Publisher, Country Year William Perry, “Effective Methods for Software Testing 3rd Edition John Wiley & Sons, New York, CemKaner, Jack Falk, Nguyen Quoc, “Testing Computer Software”, 2nd Edition Van Nostrand Reinhold, New York, Boris Beizer, “Software Testing Techniques”, Second Volume, 2nd Edition Van Nostrand Reinhold, New York, 1990. Louise Tamres, “Software Testing”, 1st Edition Pearson Education Asia,
+
+
+--- Chunk 0 ---
+Reference Books: Authors Name Title Edition Publisher, Country Year Roger S. Pressman, “Software Engineering – A Practitioner’s Approach”, Fifth Edition, 8th McGraw-Hill International Edition, New Delhi, Boris Beizer, “Black-Box Testing – Techniques for Functional Testing of Software and Systems” 1st Edition John Wiley & Sons Inc., New York, K.K. Aggarwal & Yogesh Singh, “Software Engineering”, 1st Edition New Age International Publishers, New Delhi Marc Roper, “Software Testing”, 2nd Edition McGraw-Hill Book Co., London Gordon Schulmeyer, “Zero Defect Software 3rd Edition McGraw-Hill, New York,. Watts Humphrey , “Managing the Software Process”, 1st Edition Addison Wesley Pub. Co. Inc., Massachusetts, Boris Beizer, “Software System Testing and Quality Assurance” 1st Edition Van Nostrand Reinhold, New York, Glenford Myers, “The Art of Software Testing”, 1st Edition John Wiley & Sons Inc., New York,
+
+
+--- Chunk 0 ---
+Course Articulation Matrix High correlation (3); Medium correlation (2); Low correlation (1), No correlation ( - ) CO Statement PO1 PO2 PO3 PO4 PO5 PO6 PO7 PO8 PO9 PO10 PO11 PO12 PSO1 PSO2 PSO3 TCS799.1 Demonstrate the application of verification and validation tasks and their outcomes during the software life cycle. - - - - - - - - TCS799.2 Apply various verification and validation techniques based on various characteristics of the system/software (safety, security, risk, etc). - - - - - - - - - TCS799.3 Differentiate between the overall role of verification and validation and the specific role of software/system testing. - - - - - - - - TCS799.4 Compare and contrast the theoretical and practical limitations to software verification and validation analysis. - - - - - TCS799.5 Apply appropriate planning and scoping to a verification and validation effort based on the needs of the software system being developed. - - - - TCS799.6 Develop a software verification and validation plan that reflects an understanding of verification and validation objectives, and appropriate problem/risk identification and tracking. - - - - - - - - TCS 799 1.5 1.8 2.4 2.5 - - 1.5 1.8 2.33 1.4 1.8
+
+
+--- Chunk 0 ---
+2023-24 and 2024-25 onwards GRAPHIC ERA (DEEMED TO BE UNIVERSITY), DEHRADUN SEMESTER VII Name of Department: - Computer Science and Engineering 1. Subject Code: Course Title: 2. Contact Hours: L: T: P: 3. Examination Duration (Hrs): Theory Practical 4. Relative Weight: CIE MSE ESE 5. Credits: 6. Semester: 7. Category of Course: 8.
+
+
+--- Chunk 1 ---
+Pre-requisite: Machine Learning (TCS509) 9. Course Outcome: After completion of the course the students will be able to: CO1 To understand the fundamental concepts and principles of deep learning. CO2 To evaluate and use the most important concepts and the methods in the area ML and deep learning. CO3 Examine modern practical deep networks. CO4 Know deep Learning Research Areas. CO5 Use software libraries of deep learning CO6 Use deep learning models. 10. Details of the Course: S.NO.
+
+
+--- Chunk 0 ---
+Unit 3: Popular CNN Architectures: ResNet, AlexNet, Sequence Modeling: Recurrent and Recursive Nets, Practical Methodology, Applications, Transfer learning Techniques, Unit 4: Deep Learning Research: Linear Factor Models, Auto- encoders, Representation Learning, Structured Probabilistic Models for Deep Learning, Monte Carlo Methods, Confronting the Partition Function, Approximate Inference Deep Generative Models. Unit 5: Deep Learning Platforms and Software Libraries: What is a Deep Learning Platform? H2O.ai, Data GraphLab, Deep Learning Libraries, Theano, Caffe, TensorFlow Total Textbooks: Authors Name Title Edition Publisher, Country Year Ellis Horowitz and Sartaj Sahni, Fundamentals of Data Structures in C 1st Edition Universities Press Josh Patterson, Adam Gibson "Deep Learning: A Practitioner's Approach", 1st Edition O'Reilly Media, 2017. Umberto Michelucci “ Applied Deep Learning. A Case- based Approach to Understanding Deep Neural Networks” 1st Edition Apress, 2018.
+
+
+--- Chunk 0 ---
+Course Articulation Matrix High correlation (3); Medium correlation (2); Low correlation (1), No correlation ( - ) CO Statement PO1 PO2 PO3 PO4 PO5 PO6 PO7 PO8 PO9 PO10 PO11 PO12 PSO1 PSO2 PSO3 TCS781.1 To understand the fundamental concepts and principles of deep learning. - - - - - - - TCS781.2 To evaluate and use the most important concepts and the methods in the area ML and deep learning. - - - - - - - - TCS781.3 Examine modern practical deep networks. - - - - - - - - - - TCS781.4 Know deep Learning Research Areas. - - - - - - - - - TCS781.5 Use software libraries of deep learning - - - - - - - - - - TCS781.6 Use deep learning models. - - - - - - - - - - TCS 781 1.75 - - - 1.75 2.16 1.8
+
+
+--- Chunk 0 ---
+2023-24 and 2024-25 onwards GRAPHIC ERA (DEEMED TO BE UNIVERSITY), DEHRADUN SEMESTER VII Name of Department: - Computer Science and Engineering 1. Subject Code: Course Title: 2. Contact Hours: L: T: P: 3. Examination Duration (Hrs): Theory Practical 4. Relative Weight: CIE MSE ESE 5. Credits: 6. Semester: 7. Category of Course: 8.
+
+
+--- Chunk 1 ---
+Pre-requisite: Artificial Intelligence: Search Methods for Problem Solving (TCS561), Design and Analysis of Algorithms (TCS-409), Programming for Problem Solving (TCS- 201) 9. Course Outcome After completion of the course the students will be able to: CO1 To Understand the basic concepts of RPA CO2 To Describe various components and platforms of RPA CO3 To Describe the different types of variables, control flow and data manipulation techniques CO4 To Understand various control techniques and OCR in RPA CO5 To Describe various types and strategies to handle exceptions CO6 To Discuss the benefits of RPA 10. Details of the Course: S.NO .
+
+
+--- Chunk 2 ---
+Contents Contact Hours Unit 1: RPA Foundations- What is RPA – Flavors of RPA- History of RPA- The Benefits of RPA- The downsides of RPA- RPA Compared to BPO, BPM and BPA – Consumer Willingness for Automation- The Workforce of the Future- RPA Skills-On-Premise Vs. the Cloud- Web Technology- Programming Languages and Low Code- OCR- Databases-APIs- AI-Cognitive Automation-Agile, Scrum, Kanban and Waterfall0 DevOps- Flowcharts.
+
+
+--- Chunk 0 ---
+Unit 2: RPA Platforms- Components of RPA- RPA Platforms-About Ui Path- About UiPath - The future of automation - Record and Play - Downloading and installing UiPath Studio -Learning Ui Path Studio- - Task recorder - Step-by-step examples using the recorder. Unit 3: Sequence, Flowchart, and Control Flow-Sequencing the workflow- Activities-Control flow, various types of loops, and decision making- Step-by-step example using Sequence and Flowchart-Step-by- step example using Sequence and Control flow-Data Manipulation- Variables and Scope-Collections Arguments – Purpose and use- Data table usage with examples-Clipboard management-File operation with step-by-step example-CSV/Excel to data table and vice versa (with a step-by-step example). Unit 4: Taking Control of the Controls- Finding and attaching windows- Finding the control- Techniques for waiting for a control- Act on controls – mouse and keyboard activities- Working with UiExplorerHandling events- Revisit recorder- Screen Scraping- When to use OCR- Types of OCR available- How to use OCR- Avoiding typical failure points. Unit 5: Exception Handling, Debugging, and Logging- Exception handling- Common exceptions and ways to handle them- Logging and taking screenshot- Debugging techniques- Collecting crash dumps- Error reporting- Future of RPA Total Textbooks: Authors Name Title Edition Publisher, Country Year Tom Taulli, The Robotic Process Automation Handbook: A Guide to Implementing RPA Systems, 1st Edition Apress
+
+
+--- Chunk 0 ---
+Alok Mani Tripathi, Learning Robotic Process Automation, 1st Edition Packt Publishing Release Reference Books: Authors Name Title Edition Publisher, Country Year Frank Casale, Rebecca Dilla, Heidi Jaynes, Lauren Livingston, “Introduction to Robotic Process Automation: a Primer”, 1st Edition Institute of Robotic Process Automation. Richard Murdoch, Robotic Process Automation: Guide To Building Software Robots, Automate Repetitive Tasks & Become An RPA Consultant 1st Edition NA Srikanth Merianda, Robotic Process Automation Tools, Process Automation and their benefits: Understanding RPA and Intelligent Automation, Consulting Opportunity Holdings Llc 1st Edition Publisher : Consulting Opportunity Holdings Llc; 1st edition (26 May 2018)
+
+
+--- Chunk 0 ---
+Course Articulation Matrix High correlation (3); Medium correlation (2); Low correlation (1), No correlation ( - ) CO Statement PO1 PO2 PO3 PO4 PO5 PO6 PO7 PO8 PO9 PO10 PO11 PO12 PSO1 PSO2 PSO3 TCS734.1 To Understand the basic concepts of RPA - - - - - - - - - - TCS734.2 To Describe various components and platforms of RPA - - - - - - - - TCS734.3 To Describe the different types of variables, control flow and data manipulation techniques - - - - - - - - TCS734.4 To Understand various control techniques and OCR in RPA - - - - - - - - - TCS734.5 To Describe various types and strategies to handle exceptions - - - - - - - - - TCS734.6 To Discuss the benefits of RPA - - - - - - - - - TCS 734 1.75 - 1.33 - - - - - 1.16 1.5 1.33
+
+
+--- Chunk 0 ---
+2023-24 and 2024-25 onwards GRAPHIC ERA (DEEMED TO BE UNIVERSITY), DEHRADUN SEMESTER VII Name of Department: - Computer Science and Engineering 1. Subject Code: Course Title: 2. Contact Hours: L: T: P: 3. Examination Duration (Hrs): Theory Practical 4. Relative Weight: CIE MSE ESE 5. Credits: 6. Semester: 7. Category of Course: 8.
+
+
+--- Chunk 1 ---
+Pre-requisite: Fundamentals of Information Security and Block Chain (TCS332), Fundamental of Cyber Security (TCS492), Computer system security (TCS591), Network and system security (TCS619) 9. Course Outcome: After completion of the course the students will be able to: CO1 Classify security vulnerabilities involved in data communication over Internet and make use of classical algorithms to address the vulnerabilities. CO2 Make use of modern block ciphers to secure data transmission and storage CO3 Analyze challenges involved in key distribution and select approach that can be adopted CO4 Analyze strengths of public key algorithms and explore applications in exchange, authentication and hashing of messages. CO5 Appreciate application of algorithms for ensuring access control, authentication, secured transmission of data at different layers. CO6 Appraise risks related to wireless, web, cloud security and measures to be adopted to secure organizational network. Cryptography and Network Security TCS 795 VII DSE
+
+
+--- Chunk 0 ---
+10. Details of the Course: S.NO. Contents Contact Hours Unit 1: Introduction to security attacks, services and mechanism, introduction to cryptography. Conventional Encryption: Conventional encryption model, classical encryption techniques- substitution ciphers and transposition ciphers, cryptanalysis, stenography, stream and block ciphers. Unit 2: Modern Block Ciphers: Block ciphers principals, Shannon's theory of confusion and diffusion, Modes of operations of block ciphers: ECB, CBC, OFB, CFB, Advanced Encryption Standard (AES) Traffic confidentiality, Key distribution, random numbers, Pseudo random number generation using Linear Congruential and Blum BlumShub algorithms Unit 3: Prime and relative prime numbers, modular arithmetic, Primality testing, Euclid's Algorithm for GCD and Extended Euclid's Algorithm for Multiplicative inverse Principals of public key crypto systems, RSA algorithm, security of RSA, key management, Diffle-Hellman key exchange algorithm Message Authentication: Requirements, Message Authentication Functions Cryptographic Hash Functions:Applications of Cryptographic Hash Functions, Secure Hash Algorithm (SHA)-512 Unit 4: Authentication Applications: Kerberos and X.509 directory authentication service, electronic mail security-S /MIME IP Security: Architecture, Authentication header, Encapsulating security payloads, combining security associations, key management. Unit 5: Wireless Network Security: Wireless Network Threats, Wireless Security Measures, Mobile Device Security, Security Threats and Security Strategy, IEEE 802.11 Wireless LAN Overview, The Wi-Fi Alliance, IEEE 802 Protocol Architecture, IEEE 802.11 Network Components and Architectural Model, IEEE 802.11 Services. Concept of Wireless LAN security and brief of phases of operation
+
+
+--- Chunk 0 ---
+Web and Cloud Security: Web Security Considerations, Transport Layer Security, HTTPS, Cloud Security risks and Countermeasures; Data protection in cloud. System Security: The Need for Firewalls, Firewall Characteristics, Types of Firewalls Total Textbooks: Authors Name Title Edition Publisher, Country Year William Stallings Network Security Essentials Applications and Standards, 6TH Edition Pearson William Stallings Cryptography and Network Security 7TH Edition Pearson Reference Books: Authors Name Title Edition Publisher, Country Year Behrouz Forouzan Cryptography and Network Security 3rd Edition McGraw Hill Johannes A. Buchmann, “Introduction to Cryptography”, 2nd Edition Springer
+
+
+--- Chunk 0 ---
+Course Articulation Matrix High correlation (3); Medium correlation (2); Low correlation (1), No correlation ( - ) CO Statement PO1 PO2 PO3 PO4 PO5 PO6 PO7 PO8 PO9 PO10 PO11 PO12 PSO1 PSO2 PSO3 TCS795.1 Classify security vulnerabilities involved in data communication over Internet and make use of classical algorithms to address the vulnerabilities. - - TCS795.2 Make use of modern block ciphers to secure data transmission and storage - - - TCS795.3 Analyze challenges involved in key distribution and select approache that can be adopted - - - TCS795.4 Analyze strengths of public key algorithms and explore applications in exchange, authentication and hashing of messages. - TCS795.5 Appreciate application of algorithms for ensuring access control, authentication, secured transmission of data at different layers. - - - - - TCS795.6 Appraiserisks related to wireless, web, cloud security and measures to be adopted to secure organizational network. - - - - TCS 795 1.25 2.33 1.6 2.16 2.2 1.66 1.33 1.4 1.66 1.8 1.4
+
+
+--- Chunk 0 ---
+2023-24 and 2024-25 onwards GRAPHIC ERA (DEEMED TO BE UNIVERSITY), DEHRADUN SEMESTER VII Name of Department: - Computer Science and Engineering 1. Subject Code: Course Title: 2. Contact Hours: L: T: P: 3. Examination Duration (Hrs): Theory Practical 4. Relative Weight: CIE MSE ESE 5. Credits: 6. Semester: 7. Category of Course: 8.
+
+
+--- Chunk 1 ---
+Pre-requisite: Fundamental of Computer & Introduction to Programming (TCS101) 9. Course Outcome: After completion of the course the students will be able to: CO1 Understand the basics of the theory and practice of Artificial Intelligence. CO2 Learn the basics of Artificial Intelligence programming. CO3 Understand various searching techniques use to solve the AI problems. CO4 Apply knowledge representation techniques and problem-solving strategies to common AI applications. CO5 Build self-learning and research skills to tackle a topic of interest on his/her own or as part of a team. CO6 Apply the knowledge of AI and agents in developing multidisciplinary real-world projects.
+
+
+--- Chunk 0 ---
+Unit 2: Understanding Natural Languages Parsing techniques, context free and transformational grammars, transition nets, augmented transition nets, Fillmore’s grammars, Shanks Conceptual Dependency, grammar free analyzers, sentence generation, and translation. Unit 3: Knowledge Representation First order predicate calculus, Horn Clauses, Introduction to PROLOG, Semantic Nets Partitioned Nets, Minskey frames, Case Grammar Theory, Production Rules Knowledgebase, The Inference System, Forward & Backward Deduction Unit 4: Expert System Existing Systems (DENDRAL, MYCIN), domain exploration, Meta Knowledge, Expertise Transfer, Self-Explaining System Unit 5: Pattern Recognition Introduction to pattern Recognition, Structured Description, Symbolic Description, Machine perception, Line Finding, Interception, Semantic, & Model, Object Identification, Speech Recognition. Programming Language: Introduction to programming Language, LISP, PROLOG Total Textbooks: Authors Name Title Edition Publisher, Country Year Charnick “Introduction to Artificial Intelligence.” 2nd Edition Addison Wesley. Rich & Knight, “Artificial Intelligence” 3rd Edition TMH Winston “LISP” 1st Edition Addison Wesley.
+
+
+--- Chunk 0 ---
+Marcellous, “Expert Systems Programming” 1st Edition PHI. Reference Books: Authors Name Title Edition Publisher, Country Year Charnick “Introduction to Artificial Intelligence.” 2nd Edition Addison Wesley. Rich & Knight, “Artificial Intelligence” 3rd Edition TMH Winston “LISP” 1st Edition Addison Wesley. Marcellous, “Expert Systems Programming” 1st Edition PHI.
+
+
+--- Chunk 0 ---
+Course Articulation Matrix High correlation (3); Medium correlation (2); Low correlation (1), No correlation ( - ) CO Statement PO1 PO2 PO3 PO4 PO5 PO6 PO7 PO8 PO9 PO10 PO11 PO12 PSO1 PSO2 PSO3 TCS706.1 Understand the basics of the theory and practice of Artificial Intelligence. - - - - - - - TCS706.2 Learn the basics of Artificial Intelligence programming. - - - - - - - TCS706.3 Understand various searching techniques use to solve the AI problems. - - - - - - TCS706.4 Apply knowledge representation techniques and problem-solving strategies to common AI applications. - - - - - TCS706.5 Build self-learning and research skills to tackle a topic of interest on his/her own or as part of a team. - TCS706.6 Apply the knowledge of AI and agents in developing multidisciplinary real-world projects. - - - - TCS 706 1.66 2.66 2.33 1.2 1.6 1.75 2.33 1.5 2.66 1.5
+
